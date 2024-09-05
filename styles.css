@@ -1,0 +1,45 @@
+body {
+    color: black;
+    background: rgb(249, 170, 231)
+}
+
+header {
+
+    border-bottom: solid 2px rgb(0, 4, 10);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(162, 11, 227);
+}
+
+h1 {
+border-bottom: solid 2px black;
+padding: 20px;
+font-size: 50px;
+margin; 50px;
+color: black;
+}
+p {
+    padding-left: 40px;
+    font-size: 30px;
+    margin-top: 10px;
+}
+p {
+    padding-left: 40px;
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.imagem1{
+   
+    padding-left: 490px;
+    font-size: 30px;
+    margin-top: 10px;
+
+
+}
+.imagem2{
+    padding-left: 490px;
+    font-size: 30px;
+    margin-top: 10px;
+
+}
